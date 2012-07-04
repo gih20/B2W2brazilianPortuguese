@@ -19,3 +19,26 @@
 ジムリーダーと\xfffeたいせんちゅう　です
 とくべつな　トレーナーと\xfffeたいせんちゅう　です
 \xf000ą\x0001\x0000を\xfffeいどうちゅう　です
+\no new line at the end of the file
+NOME:
+TRABALHO:
+HOBBY:
+TEMPO:
+\xf000ļ\x0001\x0000
+\xf000ļ\x0001\x0000
+\xf000봃\x0001\x0000\xf000Ȃ\x0001\x0002:\xf000ȁ\x0001\x0003
+DE:
+\xf000Ĥ\x0001\x0000\xfffe\xf000ĥ\x0001\x0001
+Número de vezes que agradeceu:\xfffePassou por quantas pessoas:
+\xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000Times\xfffe\xf000봃\x0001\x0000\xf000Ȅ\x0001\x0001People
+\xf000Ȅ\x0001\x0001People
+\xf000Ȃ\x0001\x0002:\xf000ȁ\x0001\x0003
+Tempo de Passerby: \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
+Tempo de Passerby: \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
+Batalhando um selvagem \xf000ā\x0001\x0000
+Batalhando um pokemon especial
+Batalhando \xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001
+Batalhando um líder de ginásio
+Batalhando um treinador especial
+Movendo-se através \xf000ą\x0001\x0000
+\no new line at the end of the file
