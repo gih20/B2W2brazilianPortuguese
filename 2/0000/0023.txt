@@ -1,2 +1,7 @@
 Use uma Pokébola após\xfffediminuir seu HP!
 ベル　は\xfffeモンスターボールを　つかった！
+
+\ No newline at end of file
+Use uma Pokébola após\xfffediminuir seu HP!
+Bianca usou\xfffea Pokebola!
+\ No newline at end of file
