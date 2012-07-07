@@ -54,3 +54,61 @@
 ポケモンせんたくを　つづけますか？
 バトルボックスが　ロックされています\xfffeポケモンは　いどう　できません
 バトルボックスが　ロックされています\xfffeもちものは　へんこう　できません
+
+
+\xf000Ă\x0001\x0000 foi selecionado.
+Por favor marque.
+Soltar este Pokémon?
+\xf000Ă\x0001\x0000 foi liberado.
+Tchau,　\xf000Ă\x0001\x0000!
+Sua equipe está lotada!
+Você não tem mais pokemons que possam lutar!
+O que você quer fazer?
+Ir pra qual box?
+Por favor selecione um tema.
+Selecione um papel de parede.
+Continuar com a operação na box?
+A Box está cheia.
+A mochila está cheia.
+Pegou o \xf000ĉ\x0001\x0000.
+\xf000ĉ\x0001\x0000 está sendo seguradp.
+Qual você vai levar?
+Colocar em qual box?
+Nenhum item segurado
+♂
+♀
+Pegar este \xf000ĉ\x0001\x0000?
+Carta não pode ser tirada.
+\xf000ĉ\x0001\x0000 foi selecionado.
+DEscartar \xf000ĉ\x0001\x0000?
+Colocou \xf000ĉ\x0001\x0000 na mochila.
+Pode segurar um item.
+Por favor remova a carta.
+Você não pode libertar o ovo.
+Você não pode libertar um Kyurem fundido.
+\xf000Ă\x0001\x0000 voltou!
+Ele estava preocupado com você?
+Um ovo não pode segurar um item.
+Toque a marca!
+DEPOSITAR POKÉMON
+RETIRAR POKÉMON
+A box está cheia.
+Sua equipe está lotada!
+DEPOSITAR POKÉMON
+RETIRAR POKÉMON
+MOVER POKÉMON
+MOVER ITEMS
+BOX DE BATALHA
+SELECIONE UM POKÉMON DORMINDO
+Carta não pode ser movida!
+Não pode segurar \xf000ĉ\x0001\x0000!
+Tem uma carta!
+Você não tem mais pokemons que possam lutar!
+Carta não pode ser movida!
+Ele não pode segurar a carta aqui.
+Ovos não podem ser selecionados!
+\xf000Ă\x0001\x0000 vai ser dobrado.\xfffeOK?
+Esse pokemon não parece estar\xfffedormindo agora.
+Selecionar outro pokemon?
+Sua Box de Batalha está trancada.\xfffeVocê não pode mover seu pokemon.
+Sua Box de Batalha está trancada.\xfffeItens não podem ser dados ou tirados.
